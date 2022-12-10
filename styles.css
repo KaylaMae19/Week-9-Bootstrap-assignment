@@ -1,0 +1,55 @@
+.background1 {
+  background-color: rgb(48, 99, 253);
+}
+
+.background2 {
+  background-color: rgb(180, 243, 180);
+}
+
+.table1 {
+  height: 40px;
+  width: 50px;
+  border-top: 8px;
+  border-color: white;
+}
+.h2-2 {
+  text-align: center;
+  color: black;
+  text-shadow: 3px gray;
+}
+
+.div1 {
+  border-style: double;
+  border-color: black;
+  padding: 5px;
+  margin: 4px;
+  align-items: center;
+}
+
+.div2 {
+  border-style: solid;
+  border-color: black;
+  background-color: #329ff2;
+  padding: 7px;
+  margin: 4px;
+  align-items: center;
+}
+
+.hov-home {
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.hov-home:hover {
+  background-color: #fffbfd;
+  color: black;
+}
+
+img {
+  float: center;
+  height: 40%;
+  width: 40%;
+  border-style: solid;
+  border-color: white;
+}
